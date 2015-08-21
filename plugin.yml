@@ -1,0 +1,5 @@
+main: com.ferdz.playtime.PlayTime
+name: PlayTime
+version: 0.1
+author: Ferdz
+description: Shows the play time of players
